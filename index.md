@@ -1,6 +1,6 @@
-# [APP NAME] — Legal
+# Home-hermes — Legal
 
 - [Terms of Service](terms.md)
 - [Privacy Policy](privacy.md)
 
-Contact: **[CONTACT EMAIL]**
+Contact: **tatsushin0206@gmail.com**

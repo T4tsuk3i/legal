@@ -2,7 +2,7 @@
 
 **Last updated:** 7 November 2026
 
-This Privacy Policy explains how **[APP NAME]** (the "Service") collects, uses, and protects information when you use it through Discord. The Service is operated by **[OPERATOR NAME]** ("we", "us", "our").
+This Privacy Policy explains how **Home-hermes** (the "Service") collects, uses, and protects information when you use it through Discord. The Service is operated by **Tatsuya Shindou** ("we", "us", "our").
 
 ## 1. Information we collect
 
@@ -62,7 +62,7 @@ The Service is not directed to children under 13 (or the minimum age of digital 
 
 ## 8. Your rights
 
-Depending on where you live, you may have the right to access, correct, delete, restrict, or object to processing of your data, and to data portability. To exercise these rights, email **[CONTACT EMAIL]** with your Discord user ID. We may need to verify that the request comes from you. You may also complain to your local data-protection authority.
+Depending on where you live, you may have the right to access, correct, delete, restrict, or object to processing of your data, and to data portability. To exercise these rights, email **tatsushin0206@gmail.com** with your Discord user ID. We may need to verify that the request comes from you. You may also complain to your local data-protection authority.
 
 To delete data associated with your use of the Service, remove the Service from your server and email us; we will delete stored content within 30 days unless we must retain it for legal reasons.
 
@@ -80,5 +80,5 @@ We may update this policy. Material changes will be announced in the Service's s
 
 ## 12. Contact
 
-**[OPERATOR NAME]**
-Email: **[CONTACT EMAIL]**
+**Tatsuya Shindou**
+Email: **tatsushin0206@gmail.com**

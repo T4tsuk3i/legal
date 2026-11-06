@@ -2,7 +2,7 @@
 
 **Last updated:** 7 November 2026
 
-These Terms of Service ("Terms") govern your access to and use of **[APP NAME]** (the "Service"), a Discord application operated by **[OPERATOR NAME]** ("we", "us", "our"). By inviting, accessing, or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
+These Terms of Service ("Terms") govern your access to and use of **Home-hermes** (the "Service"), a Discord application operated by **Tatsuya Shindou** ("we", "us", "our"). By inviting, accessing, or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
 ## 1. Eligibility
 
@@ -65,8 +65,8 @@ We may update these Terms from time to time. Material changes will be announced 
 
 ## 13. Governing law
 
-These Terms are governed by the laws of **[JURISDICTION]**, without regard to conflict-of-law rules. Courts in **[CITY, JURISDICTION]** have exclusive jurisdiction, except where mandatory consumer law provides otherwise.
+These Terms are governed by the laws of **India**, without regard to conflict-of-law rules. Courts in **Mangalore, India** have exclusive jurisdiction, except where mandatory consumer law provides otherwise.
 
 ## 14. Contact
 
-Questions about these Terms: **[CONTACT EMAIL]**.
+Questions about these Terms: **tatsushin0206@gmail.com**.
