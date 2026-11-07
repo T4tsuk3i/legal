@@ -2,7 +2,7 @@
 
 **Last updated:** 7 November 2026
 
-These Terms of Service ("Terms") govern your access to and use of **Shiroe** (the "Service"), a Discord application operated by **Tatsuya Shindou** ("we", "us", "our"). By inviting, accessing, or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
+These Terms of Service ("Terms") govern your access to and use of **5h1r03** (the "Service"), a Discord application operated by **Tatsuya Shindou** ("we", "us", "our"). By inviting, accessing, or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
 ## 1. Eligibility
 

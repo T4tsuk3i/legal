@@ -2,7 +2,7 @@
 
 **Last updated:** 7 November 2026
 
-This Privacy Policy explains how **Shiroe** (the "Service") collects, uses, and protects information when you use it through Discord. The Service is operated by **Tatsuya Shindou** ("we", "us", "our").
+This Privacy Policy explains how **5h1r03** (the "Service") collects, uses, and protects information when you use it through Discord. The Service is operated by **Tatsuya Shindou** ("we", "us", "our").
 
 ## 1. Information we collect
 
