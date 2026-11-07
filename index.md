@@ -1,4 +1,4 @@
-# Home-hermes — Legal
+# Shiroe — Legal
 
 - [Terms of Service](terms.md)
 - [Privacy Policy](privacy.md)
